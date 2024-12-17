@@ -1,0 +1,3 @@
+C:/Users/CompuStore/CLionProjects/Algorithm2/cmake-build-debug/CMakeFiles/Algorithm2.dir
+C:/Users/CompuStore/CLionProjects/Algorithm2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CompuStore/CLionProjects/Algorithm2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
